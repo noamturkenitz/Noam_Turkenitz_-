@@ -2,5 +2,8 @@
     <string name="app_name">Noam_Turkenitz_Application</string>
     <string name="welcome_message">ברוכים הבאים!</string>
     <string name="click_here">לחץ כאן</string>
+    <string name="kobe_title">Kobe Bryant</string>
+    <string name="kobe">קובי ברייאנט בשבילי הוא מקור השראה גדול בזכות מוסר העבודה שלו, והשאיפה שלו למצוינות בכל מה שהוא עושה. הוא מאמין שאין קיצורי דרך ושצריך לתת מאה אחוז בכל דבר שאתה עושה. זו גישה שאני משתדל ליישם גם בחיים שלי. </string>
+    <string name="mamba_mentality">The mamba Mentality</string>
 </resources>
 
