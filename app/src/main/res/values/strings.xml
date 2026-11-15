@@ -8,5 +8,7 @@
     <string name="beingAnIsraeli"> בשבילי להיות ישראלי זה הצורך להגן על המדינה. להתגייס לצבא בעתיד ולהגן על המקום בו נולדת וגדלת, גם אם לא בתור לוחם או חייל באופן כללי: אפילו בן אדם המדווח על מקרה שראה ברחוב או מישהו המנסה להילחם באנטישמישמיות הוא מקדם את המדינה ואת טובתה. לדעתי, כל אדם התומך במדינה, לא מתנגד לערכיה ומשרת אותה או עוזר לטיפוחה וקידומה בכל דרך שהיא הוא ישראלי, לא בהכרח יהודי אלא ישראלי. </string>
     <string name="History">לעוד מידע על היסוריית המדינה לחצו כאן</string>
     <string name="tbc">toBeContinued</string>
+    <string name="beingIsraeli">להיות ישראלי:</string>
+    <string name="btnAnthemText">Click for the National Anthem</string>
 </resources>
 
